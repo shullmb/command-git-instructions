@@ -42,3 +42,5 @@
 **git commit** -> takes staged files and creates save point/commit number
 - `$ git commit -m '[meaningful commit message]'` - commits with meaningful status message
 **git log** -> shows full log of all commits
+**git push** -> sends commits to github
+- `$ git push origin master` - pushes local changes to remote repo
