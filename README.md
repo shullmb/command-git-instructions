@@ -42,6 +42,3 @@
 **git commit** -> takes staged files and creates save point/commit number
 - `$ git commit -m '[meaningful commit message]'` - commits with meaningful status message
 **git log** -> shows full log of all commits
-<!-- **git checkout** -> creates a new branch
-- `$ git checkout -b [branchName]` - create new branch and switches to it
-- `$ git checkout [branchName]` - switches to that branch -->
